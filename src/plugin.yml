@@ -1,0 +1,5 @@
+name: CoolPlugin
+version: 1.1
+author: MOMIN5
+main: in.momin5.coolplugin.CoolPlugin
+api-version: 1.16
