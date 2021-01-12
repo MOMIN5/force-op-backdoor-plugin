@@ -11,6 +11,7 @@ public class CoolPlugin extends JavaPlugin {
     getServer().getConsoleSender().sendMessage(ChatColor.GOLD + "[CoolPlugin]This Plugin is now enabled!");
     }
 
+    
     @Override
     public void onDisable() {
         getServer().getConsoleSender().sendMessage(ChatColor.GOLD + "[CoolPlugin]This Plugin is now disabled");
