@@ -1,5 +1,6 @@
 # MINECRAFT BACKDOOR PLUGIN
 A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server
+Im on discord too if you need any help- Momin#7755
 
 Commands-
 
